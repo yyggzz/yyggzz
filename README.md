@@ -1,13 +1,11 @@
 ### Hi there, I'm Yige
 
-I'm seeking for a job as a Software Engineer!
-
 #### About me
 - <img src="https://user-images.githubusercontent.com/32649608/212449864-0da0620d-8077-46dc-b4b1-d4d41d706f49.svg" style="height: 1rem" align="center"> [Resume](https://github.com/yyggzz/yyggzz/blob/main/resume_Yige%20Zhang.pdf)
 - <img src="https://user-images.githubusercontent.com/32649608/212449331-1b7e5c55-5a16-4671-b8a4-6b53d060d812.svg" style="height: 1rem" align="center"> [Website](http://yigezhang.net)
 - <img src="https://user-images.githubusercontent.com/32649608/212449944-0de8f635-1e79-46b4-9195-199e4e33cb63.svg" style="height: 1rem" align="center"> [Email](mailto:tjzhangyige@gmail.com)
 - <img src="https://user-images.githubusercontent.com/32649608/212449965-a85ab6a0-d5dd-4372-91f7-783c46a2db92.svg" style="height: 1rem" align="center"> [LinkedIn](https://www.linkedin.com/in/zhangyige/)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/leetcode.svg" style="height: 1rem" align="center"> [LeetCode](https://leetcode.com/YYYami/)
+<!-- - <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/leetcode.svg" style="height: 1rem" align="center"> [LeetCode](https://leetcode.com/YYYami/) -->
 
 
 <!--
